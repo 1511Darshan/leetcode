@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
