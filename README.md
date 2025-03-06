@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/1511Darshan/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/1511Darshan/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/1511Darshan/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -97,5 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
