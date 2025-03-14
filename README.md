@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/1511Darshan/leetcode/tree/master/0002-add-two-numbers) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/1511Darshan/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
