@@ -14,17 +14,17 @@ class Solution:
 
         return result
 
-    def _can_form_nice_subarray(slef, length : int, nums : list[int]) -> bool:
+    def _can_form_nice_subarray(slef, length : int, nums1 : list[int]) -> bool:
         if length <= 1:
             return True
-        for start in range(len(nums) - length + 1):
+        for start in range(len(nums1) - length + 1):
             bit_mask = 0 
             is_nice = True
             for pos in range(start, start + length):
-                if bit_mask & nums[pos] != 0:
+                if bit_mask & nums1[pos] != 0:
                     is_nice = False
                     break
-                bit_mask |= nums[pos]
+                bit_mask |= nums1[pos]
 
             if is_nice:
                 return True
