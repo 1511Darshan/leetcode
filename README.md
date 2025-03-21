@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/1511Darshan/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/1511Darshan/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/1511Darshan/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
