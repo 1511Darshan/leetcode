@@ -4,16 +4,12 @@ public:
         if(s.length() != t.length()){
             return false;
         }
-        unordered_map<char,int> counter;
-        for(char ch : s){
-            counter[ch] = counter[ch] + 1;
+        unordered_map<char,int> freqS;
+        unordered_map<char,int> freqT;
+        for(int i = 0; i<s.length();i++){
+            freqS[s[i]]++;
+            freqT[t[i]]++;
         }
-        for(char ch : t){
-            if(counter.find(ch) == counter.end(ch) || counter[ch] == 0){
-                return false;
-            }
-            counter[ch] = counter[ch] - 1;
-        }
-        return true;
+        return freqS == freqT;
     }
 };
