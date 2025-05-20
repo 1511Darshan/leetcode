@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/1511Darshan/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -230,4 +231,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
