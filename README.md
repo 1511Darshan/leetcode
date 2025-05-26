@@ -1,4 +1,16 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions by Darshan
+
+Welcome to my LeetCode solutions repository! This repo contains my solutions to various algorithm and data structure problems from [LeetCode](https://leetcode.com/), implemented mainly in C++ (or your language here).  
+The goal of this repo is to track my problem-solving progress, improve my coding skills, and share helpful solutions with the community.
+
+---
+
+## About
+
+This repository is a personal collection of solutions to LeetCode problems. Each solution aims to provide clear, optimized, and well-commented code for better understanding.  
+I update this repo regularly as I solve new problems and revise older ones.
+
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
