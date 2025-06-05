@@ -51,6 +51,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/1511Darshan/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1511Darshan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/1511Darshan/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/1511Darshan/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/1511Darshan/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
