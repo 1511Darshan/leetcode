@@ -308,6 +308,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Dynamic Programming
 |  |
 | ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/1511Darshan/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
@@ -321,4 +322,8 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/1511Darshan/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/1511Darshan/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
