@@ -61,6 +61,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/1511Darshan/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/1511Darshan/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -192,6 +193,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/1511Darshan/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -318,6 +320,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/1511Darshan/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
