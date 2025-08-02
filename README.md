@@ -80,6 +80,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/1511Darshan/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/1511Darshan/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/1511Darshan/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -116,6 +117,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
+| [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/1511Darshan/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -217,6 +219,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 ## Counting
 |  |
 | ------- |
@@ -251,6 +254,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/1511Darshan/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/1511Darshan/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/1511Darshan/leetcode/tree/master/3430-count-days-without-meetings) |
