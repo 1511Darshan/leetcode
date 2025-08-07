@@ -94,6 +94,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3515-find-if-digit-game-can-be-won](https://github.com/1511Darshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
 ## Hash Table
@@ -232,6 +233,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,6 +329,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/1511Darshan/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Trie
 |  |
 | ------- |
