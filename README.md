@@ -50,6 +50,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1511Darshan/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/1511Darshan/leetcode/tree/master/0135-candy) |
@@ -103,6 +104,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1511Darshan/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/1511Darshan/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1511Darshan/leetcode/tree/master/0242-valid-anagram) |
