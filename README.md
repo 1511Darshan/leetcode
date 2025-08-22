@@ -1,6 +1,6 @@
 # LeetCode Solutions by Darshan
 
-Welcome to my LeetCode solutions repository! This repo contains my solutions to various algorithm and data structure problems from [LeetCode](https://leetcode.com/), implemented mainly in C++ (or your language here).  
+Welcome to my LeetCode solutions repository! This repo contains my solutions to various algorithm and data structure problems from [LeetCode](https://leetcode.com/), implemented mainly in C++.  
 The goal of this repo is to track my problem-solving progress, improve my coding skills, and share helpful solutions with the community.
 
 ---
