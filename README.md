@@ -54,6 +54,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/1511Darshan/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/1511Darshan/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1511Darshan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -358,6 +359,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/1511Darshan/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
