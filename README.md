@@ -98,6 +98,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/1511Darshan/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/1511Darshan/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/1511Darshan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/1511Darshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -226,6 +227,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/1511Darshan/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/1511Darshan/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
@@ -254,6 +256,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/1511Darshan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
