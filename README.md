@@ -52,6 +52,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0001-two-sum](https://github.com/1511Darshan/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1511Darshan/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/1511Darshan/leetcode/tree/master/0217-contains-duplicate) |
@@ -258,6 +260,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
