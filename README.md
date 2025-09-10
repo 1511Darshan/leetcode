@@ -82,6 +82,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/1511Darshan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/1511Darshan/leetcode/tree/master/1760-check-array-formation-through-concatenation) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -137,6 +138,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/1511Darshan/leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
@@ -249,6 +251,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 ## Counting
 |  |
