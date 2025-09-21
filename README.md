@@ -115,6 +115,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
+| [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
+| [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,6 +290,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/1511Darshan/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/1511Darshan/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -336,6 +339,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/1511Darshan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -372,6 +376,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
+| [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -421,4 +426,8 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
