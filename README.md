@@ -57,6 +57,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/1511Darshan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/1511Darshan/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/1511Darshan/leetcode/tree/master/0136-single-number) |
@@ -384,6 +385,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/1511Darshan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
