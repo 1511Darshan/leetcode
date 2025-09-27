@@ -70,6 +70,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/1511Darshan/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
@@ -167,6 +168,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0283-move-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
 | [2128-reverse-prefix-of-word](https://github.com/1511Darshan/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -254,6 +256,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0135-candy](https://github.com/1511Darshan/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/1511Darshan/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
@@ -288,6 +291,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/1511Darshan/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/1511Darshan/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/1511Darshan/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -304,6 +308,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
