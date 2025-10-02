@@ -40,6 +40,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3201-distribute-candies-among-children-ii](https://github.com/1511Darshan/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/1511Darshan/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/1511Darshan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/1511Darshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -218,6 +219,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/1511Darshan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
+| [3336-water-bottles-ii](https://github.com/1511Darshan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
