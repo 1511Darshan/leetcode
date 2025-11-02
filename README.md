@@ -99,6 +99,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2478-longest-nice-subarray](https://github.com/1511Darshan/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/1511Darshan/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -221,6 +222,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/1511Darshan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
 | [3336-water-bottles-ii](https://github.com/1511Darshan/leetcode/tree/master/3336-water-bottles-ii) |
@@ -292,6 +294,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/1511Darshan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
