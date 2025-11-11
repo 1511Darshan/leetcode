@@ -77,6 +77,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/1511Darshan/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -201,6 +202,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0008-string-to-integer-atoi](https://github.com/1511Darshan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/1511Darshan/leetcode/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -418,6 +420,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0120-triangle](https://github.com/1511Darshan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/1511Darshan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
