@@ -103,6 +103,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/1511Darshan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -193,6 +194,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1168-duplicate-zeros](https://github.com/1511Darshan/leetcode/tree/master/1168-duplicate-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/1511Darshan/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/1511Darshan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/1511Darshan/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
@@ -234,6 +236,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/1511Darshan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/1511Darshan/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/1511Darshan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
