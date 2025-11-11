@@ -25,6 +25,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0002-add-two-numbers](https://github.com/1511Darshan/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/1511Darshan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/1511Darshan/leetcode/tree/master/0670-maximum-swap) |
@@ -69,6 +70,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0136-single-number](https://github.com/1511Darshan/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1511Darshan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/1511Darshan/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/1511Darshan/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
@@ -181,6 +183,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1511Darshan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
