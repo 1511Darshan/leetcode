@@ -114,6 +114,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/1511Darshan/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/1511Darshan/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/1511Darshan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/1511Darshan/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -313,6 +314,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/1511Darshan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/1511Darshan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -389,6 +391,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/1511Darshan/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/1511Darshan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Interactive
