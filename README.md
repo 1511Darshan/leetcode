@@ -84,6 +84,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/1511Darshan/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/1511Darshan/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
