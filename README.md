@@ -427,10 +427,12 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/1511Darshan/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/1511Darshan/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
