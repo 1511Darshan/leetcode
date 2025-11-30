@@ -106,6 +106,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/1511Darshan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/1511Darshan/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/1511Darshan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/1511Darshan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/1511Darshan/leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -172,6 +173,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/1511Darshan/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/1511Darshan/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1590-make-sum-divisible-by-p](https://github.com/1511Darshan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/1511Darshan/leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -413,6 +415,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/1511Darshan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2529-range-product-queries-of-powers](https://github.com/1511Darshan/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/1511Darshan/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
