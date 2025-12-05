@@ -45,6 +45,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/1511Darshan/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/1511Darshan/leetcode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/1511Darshan/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/1511Darshan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/1511Darshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -141,6 +142,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/1511Darshan/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/1511Darshan/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/1511Darshan/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/1511Darshan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -436,6 +438,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1590-make-sum-divisible-by-p](https://github.com/1511Darshan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2529-range-product-queries-of-powers](https://github.com/1511Darshan/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/1511Darshan/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/1511Darshan/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Interactive
