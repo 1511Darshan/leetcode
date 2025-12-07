@@ -32,6 +32,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/1511Darshan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/1511Darshan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/1511Darshan/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/1511Darshan/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/1511Darshan/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
