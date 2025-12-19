@@ -24,6 +24,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/1511Darshan/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/1511Darshan/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/1511Darshan/leetcode/tree/master/0231-power-of-two) |
