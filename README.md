@@ -233,6 +233,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0027-remove-element](https://github.com/1511Darshan/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/1511Darshan/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1511Darshan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0283-move-zeroes) |
@@ -262,6 +263,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/1511Darshan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/1511Darshan/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/1511Darshan/leetcode/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
