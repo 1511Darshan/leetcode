@@ -128,6 +128,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1760-check-array-formation-through-concatenation](https://github.com/1511Darshan/leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1929-concatenation-of-array](https://github.com/1511Darshan/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1511Darshan/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-design-movie-rental-system](https://github.com/1511Darshan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/1511Darshan/leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -299,6 +300,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/1511Darshan/leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/1511Darshan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/1511Darshan/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
