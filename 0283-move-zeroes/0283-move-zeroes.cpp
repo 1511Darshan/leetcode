@@ -2,18 +2,19 @@ class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
         int n = nums.size();
-        int index = 0;
-        vector<int> res(n);
-        for(int i = 0; i < n;++i ){
+        vector<int> a;
+        for(int i = 0; i < n; ++i){
             if(nums[i] != 0){
-                res[index++] = nums[i];
+                a.push_back(nums[i]);
             }
         }
-        for(int i = index; i<n ; ++i){
-            res[i] = 0;
+        //copy the temp back to nums
+        for(int i = 0; i<a.size(); ++i){
+            nums[i] = a[i];
         }
-        for(int i = 0; i < n; ++i){
-            nums[i] = res[i];
+        //add the zeros to the end
+        for(int i = a.size(); i<n; ++i){
+            nums[i] = 0;
         }
     }
 };
