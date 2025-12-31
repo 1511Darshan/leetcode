@@ -32,6 +32,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/1511Darshan/leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/1511Darshan/leetcode/tree/master/0670-maximum-swap) |
+| [0840-magic-squares-in-grid](https://github.com/1511Darshan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/1511Darshan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/1511Darshan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -105,6 +106,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/1511Darshan/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/1511Darshan/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/1511Darshan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/1511Darshan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/1511Darshan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -204,6 +206,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/1511Darshan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -398,6 +401,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
+| [0840-magic-squares-in-grid](https://github.com/1511Darshan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/1511Darshan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
