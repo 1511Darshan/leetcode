@@ -27,6 +27,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0007-reverse-integer](https://github.com/1511Darshan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/1511Darshan/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/1511Darshan/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/1511Darshan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/1511Darshan/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/1511Darshan/leetcode/tree/master/0120-triangle) |
