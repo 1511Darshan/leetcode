@@ -569,6 +569,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/1511Darshan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/1511Darshan/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/1511Darshan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/1511Darshan/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/1511Darshan/leetcode/tree/master/2054-two-best-non-overlapping-events) |
