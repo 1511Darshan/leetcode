@@ -215,6 +215,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/1511Darshan/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/1511Darshan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -535,6 +536,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -542,6 +544,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -553,6 +556,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/1511Darshan/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -562,6 +566,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
