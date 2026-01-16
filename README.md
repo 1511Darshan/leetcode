@@ -171,6 +171,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/1511Darshan/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/1511Darshan/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1511Darshan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/1511Darshan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/1511Darshan/leetcode/tree/master/3194-find-words-containing-character) |
@@ -241,6 +242,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/1511Darshan/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1511Darshan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1511Darshan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -375,6 +377,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1925-count-square-sum-triples](https://github.com/1511Darshan/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1511Darshan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-distribute-candies-among-children-ii](https://github.com/1511Darshan/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/1511Darshan/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
