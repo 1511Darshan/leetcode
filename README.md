@@ -120,6 +120,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/1511Darshan/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/1511Darshan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/1511Darshan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/1511Darshan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -284,6 +285,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/1511Darshan/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/1511Darshan/leetcode/tree/master/1168-duplicate-zeros) |
@@ -488,6 +490,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0759-set-intersection-size-at-least-two](https://github.com/1511Darshan/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/1511Darshan/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/1511Darshan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
