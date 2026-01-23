@@ -21,6 +21,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1511Darshan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +193,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1511Darshan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/1511Darshan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/1511Darshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1511Darshan/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -254,6 +256,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1511Darshan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/1511Darshan/leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/1511Darshan/leetcode/tree/master/3606-coupon-code-validator) |
@@ -349,6 +352,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3336-water-bottles-ii](https://github.com/1511Darshan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/1511Darshan/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -532,6 +536,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2054-two-best-non-overlapping-events](https://github.com/1511Darshan/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Queue
@@ -678,6 +683,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/1511Darshan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Geometry
@@ -690,4 +696,5 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
