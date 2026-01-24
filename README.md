@@ -145,6 +145,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/1511Darshan/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-check-array-formation-through-concatenation](https://github.com/1511Darshan/leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1511Darshan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/1511Darshan/leetcode/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/1511Darshan/leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/1511Darshan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -289,6 +290,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/1511Darshan/leetcode/tree/master/1168-duplicate-zeros) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1511Darshan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/1511Darshan/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1511Darshan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -417,6 +419,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1511Darshan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/1511Darshan/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/1511Darshan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
@@ -495,6 +498,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1019-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1511Darshan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/1511Darshan/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/1511Darshan/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/1511Darshan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
