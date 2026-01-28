@@ -207,6 +207,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3623-count-number-of-trapezoids-i](https://github.com/1511Darshan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/1511Darshan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/1511Darshan/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
@@ -457,6 +458,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/1511Darshan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
 | ------- |
@@ -646,6 +648,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/1511Darshan/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Trie
 |  |
 | ------- |
